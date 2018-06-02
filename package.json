@@ -1,0 +1,20 @@
+{
+  "name": "dev-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aphrodite": "^2.2.1",
+    "browserify": "^16.2.2",
+    "ecstatic": "^3.2.0",
+    "mime": "^2.3.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "sucrase": "^2.2.0"
+  }
+}
